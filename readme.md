@@ -6,7 +6,7 @@ A simple and responsive front-end project built using only **HTML** and **CSS**.
 
 ---
 
-## 🚀 Getting Started
+##🚀 Getting Started
 
 ### 1. Clone the repository
 
@@ -16,21 +16,21 @@ cd sendbox
 open index.html
 # or just double-click the file
 ```
-##📦 Technologies Used
+📦 Technologies Used
 HTML5
 
 CSS3
 
-##✨ Features
+✨ Features
 Fully responsive design
 
 Pure HTML and CSS (no JavaScript)
 
 Clean and customizable layout
 
-##🧑‍💻 Author
+🧑‍💻 Author
 Om6064 – GitHub Profile
 
-###📄 License
+📄 License
 This project is open-source and available under the MIT License.
 
