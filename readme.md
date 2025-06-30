@@ -6,7 +6,7 @@ A simple and responsive front-end project built using only **HTML** and **CSS**.
 
 ---
 
-##🚀 Getting Started
+🚀 Getting Started
 
 ### 1. Clone the repository
 
