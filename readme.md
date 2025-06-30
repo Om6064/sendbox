@@ -16,19 +16,19 @@ cd sendbox
 open index.html
 # or just double-click the file
 ```
-###📦 Technologies Used
+##📦 Technologies Used
 HTML5
 
 CSS3
 
-###✨ Features
+##✨ Features
 Fully responsive design
 
 Pure HTML and CSS (no JavaScript)
 
 Clean and customizable layout
 
-###🧑‍💻 Author
+##🧑‍💻 Author
 Om6064 – GitHub Profile
 
 ###📄 License
